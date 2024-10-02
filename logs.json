@@ -1,0 +1,48 @@
+[{
+    "id":1,
+    "date": "2024-08-01",
+    "log": "Changelog page to help you stay in the loop"    
+},
+
+{
+    "id":2,
+    "date": "2024-08-10",
+    "log": "Redis roadmap"    
+},
+
+{
+    "id":3,
+    "date": "2024-08-15",
+    "log": "Backend project ideas"    
+},
+
+{
+    "id":4,
+    "date": "2024-08-22",
+    "log": "Submit your project solution and get feedback"    
+},
+
+
+{
+    "id":5,
+    "date": "2024-08-25",
+    "log": "Changelog page to hel you stay in the loop"    
+},
+
+{
+    "id":6,
+    "date": "2024-08-01",
+    "log": "Git and GitHub Roadmap"    
+},
+
+{
+    "id":7,
+    "date": "2024-08-28",
+    "log": "Build your learning habits with learning streaks"    
+},
+
+{
+    "id":8,
+    "date": "2024-09-03",
+    "log": "Announcing Projects on Frontend Roadmap"    
+}]
