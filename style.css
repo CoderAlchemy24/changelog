@@ -1,8 +1,8 @@
 body{
-    background-color: dodgerblue;
-    color:darkslategray;
+    background-color: teal;
+    color:lavenderblush;
     text-align: center;
-    margin:0;
+    margin:20px;
 }
 
 #header {
@@ -18,7 +18,7 @@ body{
     border: none;
     border-radius: 15px;
     background-color: white;
-    color: rgb(150,60.100);
+    color: teal;
     display: flex;
     flex-direction: row;
 
@@ -28,7 +28,7 @@ body{
 }
 
 
-li { margin: 16px;
+li { margin: 20px;
      padding:15px}
 
 #date {
@@ -47,7 +47,7 @@ li { margin: 16px;
 #log {
    
   
-   margin-left: -38px;
+   margin-left: -42px;
     /* list-style-type: none;
     */
     list-style-image: url('./images/circle.svg');
